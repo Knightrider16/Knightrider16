@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Stats
+![](https://komarev.com/ghpvc/?username=Knightrider16)
+
+<p><img align="left" height=200 src="https://github-readme-stats.vercel.app/api?username=Knightrider16&show_icons=true&theme=gotham&include_all_commits=true" alt="Knightrider16" /></p>
+
+<p><img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Knightrider16&show_icons=true&locale=en&layout=compact&theme=gotham&langs_count=10&&card_width=500" alt="Knightrider16" /></p>
