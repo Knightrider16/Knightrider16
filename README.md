@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Gautham Krishna J L, first year student in Msc Computer Science with Specialization in Machine Intelligence at Digital University Kerala. 
+
+Currently started my career and is motivated enough to push myself to increase my knowledge in this field
 <!--
 **Knightrider16/Knightrider16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
